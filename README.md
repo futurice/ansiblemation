@@ -2,6 +2,9 @@
 A collection of automation scripts written in Ansible
 
 # roles
+## frameworks
+* [Django](https://github.com/futurice/ansible-django) [![Build Status](https://travis-ci.org/futurice/ansible-django.svg?branch=master)](https://travis-ci.org/futurice/ansible-django)
+
 ## background workers
 * [Celery](https://github.com/futurice/ansible-celery) [![Build Status](https://travis-ci.org/futurice/ansible-celery.svg?branch=master)](https://travis-ci.org/futurice/ansible-celery)
 
