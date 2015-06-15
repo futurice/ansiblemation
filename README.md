@@ -5,6 +5,9 @@ A collection of automation scripts written in Ansible
 ## frameworks
 * [Django](https://github.com/futurice/ansible-django) [![Build Status](https://travis-ci.org/futurice/ansible-django.svg?branch=master)](https://travis-ci.org/futurice/ansible-django)
 
+## web servers
+* [Apache](https://github.com/futurice/ansible-apache) [![Build Status](https://travis-ci.org/futurice/ansible-apache.svg?branch=master)](https://travis-ci.org/futurice/ansible-apache)
+
 ## background workers
 * [Celery](https://github.com/futurice/ansible-celery) [![Build Status](https://travis-ci.org/futurice/ansible-celery.svg?branch=master)](https://travis-ci.org/futurice/ansible-celery)
 
