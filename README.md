@@ -8,6 +8,9 @@ A collection of automation scripts written in Ansible
 ## web servers
 * [Apache](https://github.com/futurice/ansible-apache) [![Build Status](https://travis-ci.org/futurice/ansible-apache.svg?branch=master)](https://travis-ci.org/futurice/ansible-apache)
 
+## databases
+* [Cassandra](https://github.com/futurice/ansible-cassandra) [![Build Status](https://travis-ci.org/futurice/ansible-cassandra.svg?branch=master)](https://travis-ci.org/futurice/ansible-cassandra)
+
 ## background workers
 * [Celery](https://github.com/futurice/ansible-celery) [![Build Status](https://travis-ci.org/futurice/ansible-celery.svg?branch=master)](https://travis-ci.org/futurice/ansible-celery)
 
